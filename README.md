@@ -53,6 +53,8 @@ https://www.figma.com/file/biHp1LExio8L9egk7oPBIP/Bubbal-bumm?node-id=81%3A4
   - HTML
   - CSS
 - GitHub
+- Zoom
+- Slack
 
 ## **Team**
 
